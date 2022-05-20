@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @newton-long
-- 👀 
-- 🌱 
+Newton
+Engineering and Computer Science
